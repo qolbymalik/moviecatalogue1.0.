@@ -1,0 +1,32 @@
+<resources>
+    <string name="app_name">Movie Catalogue</string>
+    <string name="title_activity_list_movie">ListMovie</string>
+    
+    <string name="hello_world">Hello world!</string>
+    <string name="title_a_star">A Star Is Born (2018)</string>
+    <string name="title_aquaman">Aquaman (2018)</string>
+    <string name="title_nun">The Nun (2018)</string>
+    <string name="title_meg">The Meg (2018)</string>
+    <string name="title_tombraider">Tomb Raider (2018)</string>
+    <string name="title_incredibles2">Incredibles 2 (2018)</string>
+    <string name="title_toall">To All Boys I\'ve loved (2018)</string>
+    <string name="title_ready">Ready Player One (2018)</string>
+    <string name="title_commuter">The Commuter (2018)</string>
+    <string name="title_predator">The Predator (2018)</string>
+    <string name="title_firstman">The Firstman (2018)</string>
+    <string name="title_avengersinfinity">Avengers:Infinity War (2018)</string>
+    <string name="title_hereditary">Hereditary (2018)</string>
+    <string name="overview_a_star">Seasoned musician Jackson Maine discovers — and falls in love with — struggling artist Ally. She has just about given up on her dream to make it big as a singer — until Jack coaxes her into the spotlight. But even as Ally\'s career takes off, the personal side of their relationship is breaking down, as Jack fights an ongoing battle with his own internal demons.</string>
+    <string name="overview_aquaman">Once home to the most advanced civilization on Earth, Atlantis is now an underwater kingdom ruled by the power-hungry King Orm. With a vast army at his disposal, Orm plans to conquer the remaining oceanic people and then the surface world. Standing in his way is Arthur Curry, Orm\'s half-human, half-Atlantean brother and true heir to the throne.</string>
+    <string name="overview_nun">When a young nun at a cloistered abbey in Romania takes her own life, a priest with a haunted past and a novitiate on the threshold of her final vows are sent by the Vatican to investigate. Together they uncover the order’s unholy secret. Risking not only their lives but their faith and their very souls, they confront a malevolent force in the form of the same demonic nun that first terrorized audiences in “The Conjuring 2” as the abbey becomes a horrific battleground between the living and the damned.</string>
+    <string name="overview_meg">A deep sea submersible pilot revisits his past fears in the Mariana Trench, and accidentally unleashes the seventy foot ancestor of the Great White Shark believed to be extinct.</string>
+    <string name="overview_tombraider">Lara Croft, the fiercely independent daughter of a missing adventurer, must push herself beyond her limits when she finds herself on the island where her father disappeared.</string>
+    <string name="overview_incredibles2">Elastigirl springs into action to save the day, while Mr. Incredible faces his greatest challenge yet – taking care of the problems of his three children.</string>
+    <string name="overview_toall">Lara Jean\'s love life goes from imaginary to out of control when her secret letters to every boy she\'s ever fallen for are mysteriously mailed out.</string>
+    <string name="overview_ready">When the creator of a popular video game system dies, a virtual contest is created to compete for his fortune.</string>
+    <string name="overview_commuter">In this action-packed thriller, Liam Neeson is Michael, an insurance salesman, whose daily commute home quickly becomes anything but routine. After being confronted by a mysterious stranger (Vera Farmiga), Michael is blackmailed into finding the identity of a passenger on his train before the last stop. As he works against the clock to solve the puzzle, Michael is unwittingly caught up in a criminal conspiracy that carries life and death stakes for himself and his fellow passengers.</string>
+    <string name="overview_predator">When a kid accidentally triggers the universe\'s most lethal hunters\' return to Earth, only a ragtag crew of ex-soldiers and a disgruntled female scientist can prevent the end of the human race.</string>
+    <string name="overview_firstman">A look at the life of the astronaut, Neil Armstrong, and the legendary space mission that led him to become the first man to walk on the Moon on July 20, 1969.</string>
+    <string name="overview_avengersinfinity">As the Avengers and their allies have continued to protect the world from threats too large for any one hero to handle, a new danger has emerged from the cosmic shadows: Thanos. A despot of intergalactic infamy, his goal is to collect all six Infinity Stones, artifacts of unimaginable power, and use them to inflict his twisted will on all of reality. Everything the Avengers have fought for has led up to this moment - the fate of Earth and existence itself has never been more uncertain.</string>
+    <string name="overview_hereditary">When Ellen, the matriarch of the Graham family, passes away, her daughter’s family begins to unravel cryptic and increasingly terrifying secrets about their ancestry.</string>
+</resources>
